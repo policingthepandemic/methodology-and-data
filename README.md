@@ -1,6 +1,4 @@
-Policing the Pandemic Mapping Project: Data Collection Methodology
-
-Draft July 9, 2020
+# Policing the Pandemic Mapping Project: Data Collection Methodology
 
 ### Data collection
 Data on enforcement events is collected using a series of combined approaches: 
