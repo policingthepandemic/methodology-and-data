@@ -9,15 +9,15 @@ Data on enforcement events is collected using a series of combined approaches:
 
 We understand reports of enforcement from government, including municipalities and police to be the most reliable source of information. While, media reports are less reliable, and when possible, and we work to verify them with other sources, most media reports often rely enforcement numbers already released by police forces or government officials. Verifying a media report can include searching for the origin of reports of enforcement events as reported by enforcement agencies or governments. For example, many enforcement numbers are released by city officials or enforcement agencies via press releases or conferences, or on social media accounts, or websites. The process of verification also happens over time as reports increase, and are reproduced in various media outlets. In some cases, verifying is not possible, as there is only one available media report on an enforcement event.
 
-### Notes on the meaning of enforcement
+### Counting "enforcement"
 An enforcement event can be a one individual instance of a person receiving a fine for allegedly violating social distancing for example, or it may be a combined number of individual enforcements. For example, individual events are reported in the media, such as when, on April 29, the CBC reported that a Syrian man was ticketed while in a park with his family. This report is input as one enforcement event. Alternatively, the City of Toronto often releases daily information on enforcement of physical distancing and other emergency measures. On June 11, the city indicated: “Bylaw officers issued four tickets in parks.” For us, this report is also included as one enforcement event. 
 
 We count enforcement events from the moment they are reported, even if the event does not reach court, is dropped, stayed, or withdrawn. This is because our project is focused solely on policing and enforcement, and the harms that result. 
 
 Each event appears as one dot on the map, and includes the number of charges, fines issued, and/or individuals involved. 
 
-### Classifying enforcement events
-Events are classified a number of different ways, including the following: 
+### Variables
+```place''': 
 
 Legislation: Our tracking includes provincial emergency legislation, such as Ontario’s Emergency Management and Civil Protection Act, provincial public health legislation, such as Québec’s Public Health Act, municipal bylaws, such as the Côte Saint-Luc bylaw mandating face masks, as well as the Federal Criminal Code of Canada, and other Federal laws, such as the Quarantine Act. We classify each event by the specific name of the legislation involved, as well as a general classification for the legislation using the following categories: criminal law, public health law, emergency law, municipal bylaw, and mixed offence. A mixed offence, is and event where more than one legislation category is applied at the same time, this has happened in a number of spitting or coughing events, where the individual is charged under the Criminal Code of Canada, as well as being issued an order under a region’s provincial public health act. 
 
