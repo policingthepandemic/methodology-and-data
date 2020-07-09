@@ -2,7 +2,7 @@
 
 ### About
 
-The Policing the Pandemic Mapping Project (PPMP) was co-created by ![Alexander McClelland](https://twitter.com/alexmcclelland), Assistant Professor of Criminology at Carleton University, and Alex Luscombe, PhD student at the Centre for Criminology & Sociolegal Studeies, University of Toronto.
+The Policing the Pandemic Mapping Project (PPMP) was co-created by ![Alexander McClelland](https://twitter.com/alexmcclelland), Assistant Professor of Criminology at Carleton University, and ![Alex Luscombe](https://twitter.com/alexlusco), PhD student at the Centre for Criminology & Sociolegal Studeies, University of Toronto.
 
 ### Data collection
 Data on enforcement events is collected using a series of combined approaches: 
