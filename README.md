@@ -3,9 +3,11 @@
 ### Data collection
 Data on enforcement events is collected using a series of combined approaches: 
 
-- Google Alerts set to coronavirus arrest, coronavirus charge, coronavirus fine, coronavirus law, COVID-19 arrest, COVID-19 charge, COVID-19 fine, COVID-19 law, non-compliance COVID-19, Violation COVID-19, "Snitch line" COVID-19. 
-- Ongoing web searches of government municipality and police force’s websites and social media accounts. 
-- Reports from individuals. 
+- News articles and press releases collected using Google Alerts, a web crawling and notification
+service, set to a range of COVID-19/enforcement related keywords; 
+- ongoing web searches of government municipality and police force’s websites and social media accounts;
+- freedom of information requests; and
+- reports from individuals
 
 We understand reports of enforcement from government, including municipalities and police to be the most reliable source of information. While, media reports are less reliable, and when possible, and we work to verify them with other sources, most media reports often rely enforcement numbers already released by police forces or government officials. Verifying a media report can include searching for the origin of reports of enforcement events as reported by enforcement agencies or governments. For example, many enforcement numbers are released by city officials or enforcement agencies via press releases or conferences, or on social media accounts, or websites. The process of verification also happens over time as reports increase, and are reproduced in various media outlets. In some cases, verifying is not possible, as there is only one available media report on an enforcement event.
 
@@ -17,7 +19,7 @@ We count enforcement events from the moment they are reported, even if the event
 Each event appears as one dot on the map, and includes the number of charges, fines issued, and/or individuals involved. 
 
 ### Variables
-```place```: We classify each enforcement event by its location. In general, this will only be the general location of the municipality or jurisdiction that is reported. In some cases, a report will include more specific information, such as with Ottawa, where the local government reported the specific location in the city of each enforcement event that took place. 
+```place```, ```province```, ```lat```, and ```long```: We classify each enforcement event by its location. In general, this will only be the general location of the municipality or jurisdiction that is reported. In some cases, a report will include more specific information, such as with Ottawa, where the local government reported the specific location in the city of each enforcement event that took place. 
 
 ```province```:
 
