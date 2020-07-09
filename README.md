@@ -5,9 +5,9 @@ Data on enforcement events is collected using a series of combined approaches:
 
 - News articles and press releases collected using Google Alerts, a web crawling and notification
 service, set to a range of COVID-19/enforcement related keywords; 
-- ongoing web searches of government municipality and police force’s websites and social media accounts;
-- freedom of information requests; and
-- reports from individuals
+- Ongoing web searches of government municipality and police force’s websites and social media accounts;
+- Freedom of information requests; and
+- Reports from individuals
 
 We understand reports of enforcement from government, including municipalities and police to be the most reliable source of information. While, media reports are less reliable, and when possible, and we work to verify them with other sources, most media reports often rely enforcement numbers already released by police forces or government officials. Verifying a media report can include searching for the origin of reports of enforcement events as reported by enforcement agencies or governments. For example, many enforcement numbers are released by city officials or enforcement agencies via press releases or conferences, or on social media accounts, or websites. The process of verification also happens over time as reports increase, and are reproduced in various media outlets. In some cases, verifying is not possible, as there is only one available media report on an enforcement event.
 
