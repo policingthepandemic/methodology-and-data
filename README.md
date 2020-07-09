@@ -17,7 +17,7 @@ We count enforcement events from the moment they are reported, even if the event
 Each event appears as one dot on the map, and includes the number of charges, fines issued, and/or individuals involved. 
 
 ### Variables
-```place''': 
+```place```: 
 
 Legislation: Our tracking includes provincial emergency legislation, such as Ontario’s Emergency Management and Civil Protection Act, provincial public health legislation, such as Québec’s Public Health Act, municipal bylaws, such as the Côte Saint-Luc bylaw mandating face masks, as well as the Federal Criminal Code of Canada, and other Federal laws, such as the Quarantine Act. We classify each event by the specific name of the legislation involved, as well as a general classification for the legislation using the following categories: criminal law, public health law, emergency law, municipal bylaw, and mixed offence. A mixed offence, is and event where more than one legislation category is applied at the same time, this has happened in a number of spitting or coughing events, where the individual is charged under the Criminal Code of Canada, as well as being issued an order under a region’s provincial public health act. 
 
