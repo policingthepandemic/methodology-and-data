@@ -21,13 +21,7 @@ Each event appears as one dot on the map, and includes the number of charges, fi
 ### Variables
 ```place```, ```province```, ```lat```, and ```long```: We classify each enforcement event by its location. In general, this will only be the general location of the municipality or jurisdiction that is reported. In some cases, a report will include more specific information, such as with Ottawa, where the local government reported the specific location in the city of each enforcement event that took place. 
 
-```province```:
-
-```lat```:
-
-```long```:
-
-```violation```: Based on information in reports, we classify each event in terms of the alleged violation involved. In some cases, we need to verify reports using other sources to determine the exact violation which led to the enforcement event. In the rare instance where the alleged violation is not reported, we include it in our reports as unspecified. When the total number of alleged violations, such as tickets issued is unclear in reports, we indicate the most conservative number (e.g. Gatineau police issued "more than two dozen" tickets, we include 23 tickets in the data set). 
+```violation```: Based on information in reports, we classify each event in terms of the violation alleged. In some cases, we need to verify reports using other sources to determine the exact violation which led to the enforcement event. where an alleged violation is not reported, we include it in our reports as unspecified. When the total number of alleged violations, such as tickets issued is unclear in reports, we indicate the most conservative number (e.g. Gatineau police issued "more than two dozen" tickets, we include 24 tickets in the data set). 
 
 ```sanction```:
 
@@ -37,7 +31,7 @@ Each event appears as one dot on the map, and includes the number of charges, fi
 
 ```number_of_people```:
 
-```individual_business```: We classify each enforcement event as they target individuals and businesses. If an enforcement event report did not specify individual or business, we default to individual. 
+```individual_business```: We classify each enforcement event according to whether they target individuals or businesses. If a report does not specify individual or business, we default to individual. 
 
 ```report_month```: In reports, we look for the actual date that the enforcement events took place. In some instances, the exact date is not reported. If that is the case, we use the date of the report of the enforcement event; this is most often the date a media article is published. It should be noted that there is often a time-lag between an actual event taking place and when it is reported to the public. Additionally, when a date range is given for enforcement events, (e.g. 114 tickets were issued between June 14-25, we indicate it as the latest date in our data set. 
 
