@@ -29,15 +29,15 @@ Each event appears as one dot on the map, and includes the number of charges, fi
 ### Variables
 ```place```, ```province```, ```lat```, and ```long```: We classify each enforcement event by its location. In general, this will only be the general location of the municipality or jurisdiction that is reported. In some cases, a report will include more specific information, such as with Ottawa, where the local government reported the specific location in the city of each enforcement event that took place. 
 
-```violation```: Based on information in reports, we classify each event in terms of the violation alleged. In some cases, we need to verify reports using other sources to determine the exact violation which led to the enforcement event. where an alleged violation is not reported, we include it in our reports as unspecified. When the total number of alleged violations, such as tickets issued is unclear in reports, we indicate the most conservative number (e.g. Gatineau police issued "more than two dozen" tickets, we include 24 tickets in the data set). 
+```violation```: Based on information in reports, we classify each event in terms of the violation alleged. In some cases, we need to verify reports using other sources to determine the exact violation which led to the enforcement event. where an alleged violation is not reported, we include it in our reports as unspecified. 
 
-```sanction```:
+```sanction```: description of the alleged violation(s) causing the arrest, charge, and/or fine. Reports sometimes do not include comprehensive information on the actual reason for the arrest, charge, and/or fine. If this information is not available or cannot be verified for accuracy, it remains unspecified.
 
-```fine_certainty```:
+```fine_certainty```: It sometimes unclear in reports if a person was fined or not. There are three possible values in this variable: yes (certain they were fined), no (certain they were not fined), and maybe (potentially fined, but unclear based on available information).
 
-```number_of_charges_or_violations```:
+```number_of_charges_or_violations```: Total number of charges in reports, including those not COVID-related (e.g., if one person was arrested for breaking and entering, drug possession, and coughing on a police officer, the number of charges or violations would be three). 
 
-```number_of_people```:
+```number_of_people```: Number of people arrested, charged, and/or fined. When the total number of people is unclear, we indicate the most conservative number (e.g. Gatineau police issued "more than two dozen" tickets, we include 24 tickets in the data set). 
 
 ```individual_business```: We classify each enforcement event according to whether they target individuals or businesses. If a report does not specify individual or business, we default to individual. 
 
@@ -47,13 +47,11 @@ Each event appears as one dot on the map, and includes the number of charges, fi
 
 ```legislation```: Our tracking includes provincial emergency legislation, such as Ontario’s Emergency Management and Civil Protection Act, provincial public health legislation, such as Québec’s Public Health Act, municipal bylaws, such as the Côte Saint-Luc bylaw mandating face masks, as well as the Federal Criminal Code of Canada, and other Federal laws, such as the Quarantine Act. We classify each event by the specific name of the legislation involved, as well as a general classification for the legislation using the following categories: criminal law, public health law, emergency law, municipal bylaw, and mixed offence. A mixed offence, is and event where more than one legislation category is applied at the same time, this has happened in a number of spitting or coughing events, where the individual is charged under the Criminal Code of Canada, as well as being issued an order under a region’s provincial public health act. Most reports usually indicate the law enabling enforcement that is involved. However, in some cases, if the name of the specific legislation is not included in the report, based on the location of a report we verify the various legislation involved. 
 
-```known_demographic```:
+```known_demographic```: Any demographic information included in the available reports.
 
-```event_desc```:
+```event_desc```: A general description of the incident (usually the headline of the media report, press release, or other report).
 
-```event_url```:
-
-```other_event_url```:
+```event_url``` and ```other_event_url```: Link to main data sources.
 
 ### Limitations 
 There are a number of limitations to the data we are able to collect, which includes the following: 
