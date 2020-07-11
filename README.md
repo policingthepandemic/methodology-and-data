@@ -10,7 +10,7 @@ You can download the full dataset from on [Dataverse](https://doi.org/10.5683/SP
 
 ### Citing the Dataset
 
-Alexander McClelland; Alex Luscombe, 2020, "Policing the Pandemic: Tracking the Policing of COVID-19 Across Canada", https://doi.org/10.5683/SP2/KNJLWS, Scholars Portal Dataverse, V2, UNF:6:/xIon/9iNdUhSeQblSPQlA== [fileUNF] 
+Alexander McClelland; Alex Luscombe, 2020, "Policing the Pandemic: Tracking the Policing of COVID-19 Across Canada", https://doi.org/10.5683/SP2/KNJLWS, Scholars Portal Dataverse, V3, UNF:6:Ltf4scgK9n88j4aJ9XR0Vg== [fileUNF] 
 
 ### Data Collection Methodology
 Data on enforcement events is collected using four major approaches: 
