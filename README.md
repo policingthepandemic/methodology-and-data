@@ -34,6 +34,8 @@ Rows in the database correspond to "enforcement entries". An enforcement entry i
 
 ```fine_certainty```: it is occasionally unclear in available reports if a person was fined or not. There are three possible values in this variable: yes (certain they were fined), no (certain they were not fined), and maybe (potentially fined, but unclear based on available information).
 
+```fine_value```: total cost of the fine.
+
 ```number_of_charges_or_violations```: the total number of charges in reports, including those non COVID-related. For example, if one person was arrested for breaking and entering, drug possession, and coughing on a police officer (the latter being COVID-related), the number of charges or violations would be three. 
 
 ```number_of_people```: the total number of people arrested, charged, and/or fined in a given enforcement entry. When the total number of people is unclear, we indicate the most conservative number. For example, if it were reported that "Gatineau police issued more than two dozen tickets" on a given day, we would count this as 24 tickets. 
