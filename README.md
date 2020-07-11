@@ -1,6 +1,6 @@
-# Policing the Pandemic Mapping Project (PPMP) Data Collection Methodology
+# Policing the Pandemic Mapping Project (PPMP) Data Collection Methodology www.policingthepandemic.ca
 
-www.policingthepandemic.ca
+
 
 ### About PPMP
 
