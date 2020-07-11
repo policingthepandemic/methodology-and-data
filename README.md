@@ -6,7 +6,7 @@ The ![Policing the Pandemic Mapping Project](www.policingthepandemic.ca) (PPMP) 
 
 ### Downloading the Dataset
 
-You can download the full dataset from on ![Dataverse](https://doi.org/10.5683/SP2/KNJLWS)
+You can download the full dataset from on ![Dataverse](https://doi.org/10.5683/SP2/KNJLWS).
 
 ### Citing the Dataset
 
